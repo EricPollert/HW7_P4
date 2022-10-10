@@ -11,7 +11,7 @@ int main() {
   int junk[num_days];
   for(int n = 0; n < num_days; n++)
     {
-      cin >> 
+      cin >> junk[n];
 
       
     }
